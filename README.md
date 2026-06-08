@@ -26,17 +26,17 @@ Provide security recommendations
 Generate secure password suggestions
 Beginner-friendly Python implementation
 
-🛠️ Technologies Used
+Technologies Used
 Python
 
-📂 Project Structure
+Project Structure
 password-strength-checker/
 │
 ├── main.py
 ├── common_passwords.txt
 └── README.md
 
-▶️ How to Run
+How to Run
 1. Install Python
 Download and install Python from:
 Python Official Website
@@ -49,7 +49,7 @@ cd password-strength-checker
 4. Run the Program
 python main.py
 
-💻 Example Output
+Example Output
 Enter your password: Hello@123
 
 Password Strength Result:
@@ -64,7 +64,7 @@ Security Feedback:
 Suggested Secure Passphrase:
 CyberTiger47#
 
-🔐 Cybersecurity Concepts Applied
+Cybersecurity Concepts Applied
 
 This project demonstrates basic cybersecurity concepts such as:
 
@@ -75,7 +75,7 @@ Common Password Blacklisting
 User Input Validation
 Secure Credential Practices
 
-📚 What I Learned
+What I Learned
 
 While building this project, I learned:
 
@@ -85,7 +85,7 @@ The importance of strong authentication practices
 How weak passwords increase security risks
 How cybersecurity concepts can be implemented through programming
 
-🔮 Future Improvements
+Future Improvements
 
 Planned enhancements for future versions:
 
@@ -96,5 +96,5 @@ Breach password detection API integration
 Real-time password strength meter
 Multi-language support
 
-🎯 Project Purpose
+Project Purpose
 This project was built as part of my cybersecurity learning journey to strengthen my understanding of authentication and secure password practices while improving my Python programming skills.
