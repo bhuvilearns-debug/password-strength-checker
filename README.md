@@ -56,10 +56,11 @@ Password Strength Result:
 Strength: Strong
 
 Security Feedback:
-✔ Contains uppercase letters
-✔ Contains numbers
-✔ Contains special characters
-✔ Password length is secure
+
+Contains uppercase letters
+Contains numbers
+Contains special characters
+Password length is secure
 
 Suggested Secure Passphrase:
 CyberTiger47#
